@@ -1,0 +1,1 @@
+Halo semuanya, perkenalkan nama saya Mochammad Fahmi Hasan dari kelas 0801 dengan NIM 108052500096. Saya berusia 20 tahun dan berasal dari Tulungagung. Saat ini, saya sedang menempuh pendidikan di Telkom University Surabaya, Program Studi Sistem Informasi. Hobi saya bermain basket. Senang bisa berkenalan dengan kalian semua. Terima kasih!
