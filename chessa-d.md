@@ -1,0 +1,1 @@
+Haii nama saya Chessa Felicia, NIM ku 108052500105 saya berkuliah di Telkom University Surabaya masuk jurusan Sistem Informasi, saya kelas IS-08-01
