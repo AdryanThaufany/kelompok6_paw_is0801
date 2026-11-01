@@ -26,4 +26,8 @@
    header("Location: student_view.php");
    exit();
  }
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> b280491c65f0e2179242b913591edaaad7fd46fa

@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 <?php
 if (isset($_POST["submit"])) {
     $username = htmlentities(strip_tags(trim($_POST["username"])));
@@ -68,3 +70,4 @@ if (isset($_POST["submit"])) {
 </div>
 </body>
 </html>
+>>>>>>> b280491c65f0e2179242b913591edaaad7fd46fa
